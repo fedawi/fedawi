@@ -1,6 +1,6 @@
 /* CHANGE COLOR AND FONT HERE */
 :root {
-    --board-color: #8293f0;
+    --board-color: #f08a36;
     --frame-color: #B78240;
     --main-font-color: #fffdfd;
     --main-font-family: 'Trebuchet MS';
@@ -46,4 +46,6 @@
     width: 100%;
     height: auto;
   }
-
+.son{
+  text-align: center;
+}
