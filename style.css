@@ -1,6 +1,6 @@
 /* CHANGE COLOR AND FONT HERE */
 :root {
-    --board-color: #f08a36;
+    --board-color: #8293f0;
     --frame-color: #B78240;
     --main-font-color: #fffdfd;
     --main-font-family: 'Trebuchet MS';
@@ -41,7 +41,8 @@
   }
 
   .img{
-    
+    position: absolute;
+    margin: 10px;
     z-index: 0;
     width: 100%;
     height: auto;
